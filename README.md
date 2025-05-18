@@ -1,6 +1,6 @@
 ﻿
 
-# SQL Analysis for Customer & Account Insights
+# SQL Analysis for Cowrywise Customers, Transaction Behaviour & Account Activity.
 
 ## Overview
 
