@@ -153,19 +153,11 @@ Database: your_database_name
 
 Run each query from DBeaver’s SQL editor to see results per task.
 
+Challenge Faced: The inabilty to install a MSSQL server on my PC.
+
+Challenge Overcomed: I was able to spin up a SQL docker image to run the server, where i connected it to a GUI tool using DBeaver.
 
 
-
-
-
-
-
-
-
-Notes
-
-
-
-
+Notes:
 
 All monetary values  are stored in kobo and converted to naira where required.
